@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<definitions>
+    <def name="Súlyvonal" topic="GEOMETRIA" level="KOZEP_ISKOLA" definition="A csúcsot a szemközti oldal felezőpontjával összekötő szakasz."/>
+    <def name="" topic="GEOMETRIA" level="ALTALANOS_ISKOLA" definition="Olyan négyszög, melynek szemközti oldalai párhuzamosok."/>
+    <def name="Sugár" topic="GEOMETRIA" level="ALTALANOS_ISKOLA" definition="A középpont és a körvonal egy pontjának távolsága."/>
+</definitions>
+

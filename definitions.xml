@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<definitions>
+        <def name="Kör" topic="GEOMETRIA" level="ALTALANOS_ISKOLA" definition="Azon pontok halmaza a síkban, melyek a sík egy adott pontjától egyenlő távolságra vannak."/>
+        <def name="Paralelogramma" topic="GEOMETRIA" level="ALTALANOS_ISKOLA" definition="Olyan négyszög, melynek szemközti oldalai párhuzamosok."/>
+        <def name="Négyzetgyök" topic="ALGEBRA" level="KOZEP_ISOLA" definition="Bármely x nemnegatív valós szám négyzetgyökén azt a nemnegatív valós számot értjük, melynek négyzete x"/>
+        <def name="Súlyvonal" topic="GEOMETRIA" level="KOZEP_ISKOLA" definition="A csúcsot a szemközti oldal felezőpontjával összekötő szakasz."/>
+        <def name="" topic="GEOMETRIA" level="ALTALANOS_ISKOLA" definition="Olyan négyszög, melynek szemközti oldalai párhuzamosok."/>
+        <def name="Sugár" topic="GEOMETRIA" level="ALTALANOS_ISKOLA" definition="A középpont és a körvonal egy pontjának távolsága."/>
+        <def name="Ekvivalens egyenletek" topic="ALGEBRA" level="KOZEP_ISKOLA" definition="Két egyenlet ekvivalens, ha ugyanazon a ahalmazon vannak értelmezve és megoldáshalmazaik azonosak."/>
+</definitions>
+
